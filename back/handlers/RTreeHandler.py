@@ -14,5 +14,5 @@ class RTreeHandler:
 
 
     @calculate_exec_time
-    def knn_query(self, image_name: str, k: int) -> List[List[Tuple[str, float]]]:
+    def knn_query(self, music_name: str, k: int) -> List[List[Tuple[str, float]]]:
         pass

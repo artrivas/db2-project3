@@ -11,10 +11,10 @@ class SequentialHandler:
 
 
     @calculate_exec_time
-    def range_query(self, image_name: str, radius: float) -> List[List[Tuple[str, float]]]:
+    def range_query(self, music_name: str, radius: float) -> List[List[Tuple[str, float]]]:
         pass
 
 
     @calculate_exec_time
-    def knn_query(self, image_name: str, k: int) -> List[List[Tuple[str, float]]]:
+    def knn_query(self, music_name: str, k: int) -> List[List[Tuple[str, float]]]:
         pass
