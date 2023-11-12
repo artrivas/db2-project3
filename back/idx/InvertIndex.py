@@ -1,0 +1,2 @@
+class InvertIndex:
+    pass
