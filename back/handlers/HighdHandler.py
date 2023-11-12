@@ -3,7 +3,7 @@ from faiss import IndexLSH
 from typing import List, Tuple
 import numpy as np
 
-class RTreelHandler:
+class HighdHandler:
     @calculate_exec_time
     def __init__(self, num_bits: int, D: int, collection_data: List[Tuple[str, np.ndarray]]) -> None:
         self.collection_data = collection_data

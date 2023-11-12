@@ -3,7 +3,7 @@ from rtree import index
 from typing import List, Tuple
 import numpy as np
 
-class RTreelHandler:
+class RTreeHandler:
     @calculate_exec_time
     def __init__(self, M: int, D: int, collection_data: List[Tuple[str, np.ndarray]]) -> None:
         self.collection_data = collection_data
