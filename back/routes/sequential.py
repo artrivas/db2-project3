@@ -8,5 +8,5 @@ async def get_knn(file: UploadFile = File(...), k: str = Form(...)) -> dict:
     return await get_knn_sequential(file, k)
 
 @routes_sequential.post('/range')
-async def get_knn(file: UploadFile = File(...), r: str = Form(...)) -> dict:
+async def get_range(file: UploadFile = File(...), r: str = Form(...)) -> dict:
     return await get_range_sequential(file, r)
