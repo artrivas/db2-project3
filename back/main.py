@@ -31,8 +31,8 @@ async def lifespan(app: FastAPI):
             collection_data = pickle.load(collection_file)
 
         handlers['sequential'] = SequentialHandler(collection_data)
-        handlers['rtree'] = RTreeHandler(collection_data)
-        handlers['highd'] = HighdHandler(collection_data)
+        handlers['rtree'] = RTreeHandler(M=5, D=128, collection_data=collection_data)
+        handlers['highd'] = HighdHandler(num_bits=1000, D=128, collection_data=collection_data)
         yield
 
     except Exception as e:
