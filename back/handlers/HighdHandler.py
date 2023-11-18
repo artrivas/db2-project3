@@ -1,4 +1,4 @@
-from utils import calculate_exec_time
+from utils.calculate_exec_time import calculate_exec_time
 from faiss import IndexLSH
 from typing import List, Tuple
 import numpy as np
