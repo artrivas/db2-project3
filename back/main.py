@@ -33,6 +33,7 @@ async def lifespan(app: FastAPI):
         handlers['sequential'] = SequentialHandler(collection_data)
         handlers['rtree'] = RTreeHandler(M=5, D=128, collection_data=collection_data)
         handlers['highd'] = HighdHandler(num_bits=1000, D=128, collection_data=collection_data)
+        handlers['invidx'] = InvIdxHandler()
         yield
 
     except Exception as e:
@@ -46,3 +47,4 @@ app = FastAPI(lifespan=lifespan)
 app.include_router(routes_sequential, prefix="/sequential")
 app.include_router(routes_rtree, prefix="/rtree")
 app.include_router(routes_highd, prefix="/highd")
+app.include_router(routes_highd, prefix="/invidx") #
