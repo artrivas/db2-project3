@@ -1,14 +1,14 @@
-import pandas as pd
-import sys
-import json
-from operator import itemgetter
 from collections import OrderedDict, defaultdict
-import math
-import numpy as np
-import nltk
 from nltk.stem.snowball import SnowballStemmer
-import os
+from operator import itemgetter
+import pandas as pd
+import numpy as np
+import json
+import math
+import nltk
 import time
+import sys
+import os
 
 def compute_term_frequency(collection):
     document_term_frequencies = {}
@@ -49,7 +49,8 @@ def compute_idf(term, idf_freq, term_freq, N):
         idf_freq[term] = idf
     return idf
 
-#Para querys
+
+# Para querys
 def calculate_tf(query, document):
     term_frequency = document.count(query)
     return (1+math.log10(term_frequency))
@@ -138,12 +139,13 @@ def preprocesar_textos(texto):
     return tokensLst
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
-data_path = os.path.join(base_dir, "data_spanish.csv")
-path_index = os.path.join(base_dir, "spimi_spanish.txt")
-blocks_dir = os.path.join(base_dir, "bloquesenglish")
-
+data_path = os.path.join(base_dir, "data_spanish.csv") # updatable
+path_index = os.path.join(base_dir, "spimi_spanish.txt") # updatable
+blocks_dir = os.path.join(base_dir, "bloquesenglish") # updatable
 
 ZERO_TRESHOLD = 0.000001
+
+########################################################################################
 
 class InvertIndex:
     def __init__(self, index_file, abstracts_por_bloque=10000, dataFile="" ):
@@ -156,7 +158,6 @@ class InvertIndex:
         self.data_path = data_path  # Updated data path
         self.path_index = path_index  # Updated path to index file
 
-
     def loadData(self):
         data = pd.read_csv(self.data_path)
         data["track_id"] = data["track_id"].astype(str)
@@ -164,7 +165,6 @@ class InvertIndex:
 
     def SPIMIConstruction(self):
         data = self.loadData()
-
         dictTerms = defaultdict(list)
         block_n = 1
 
@@ -223,7 +223,6 @@ class InvertIndex:
             else:
                 merge_final[term] = ids
         bloque_ordenado = OrderedDict(sorted(merge_final.items(), key=lambda x: x[0]))
-
         return bloque_ordenado
 
     def write_index_tf_idf(self, inverted_dict, n_documents):
@@ -235,7 +234,6 @@ class InvertIndex:
                     doc_id = doc_tf_id[0]
                     tf = doc_tf_id[1]
                     termdoc_tfidf = tf_idf(tf, docFrec, n_documents)
-
                     index.write(f"{doc_id},{termdoc_tfidf};")
                 index.write("\n")
 
@@ -254,7 +252,6 @@ class InvertIndex:
                 block = json.load(file)
                 blocks.append(block)
 
-
         while 1 < len(blocks):
             merged_blocks = []
             for i in range(0,len(blocks), 2):
@@ -265,10 +262,9 @@ class InvertIndex:
                     merged_blocks.append(blocks[i])
             blocks = merged_blocks #actualiza el nuevo merge
         ordenar_merge = OrderedDict(sorted(blocks[0].items(), key=lambda x: x[0]))
-
         return ordenar_merge
 
-    #QUERY
+    # QUERY
     def cos_Similarity(self, query, cosine_docs):
         cosine_scores = defaultdict(float)
         for docId in cosine_docs:
@@ -291,9 +287,8 @@ class InvertIndex:
                     result.append((key, posting_list)) #linea de strings, key con posting_list en string
         return result
 
-        #IMPLEMENTAR BINARY!
-    #Index Data es cada linea del documento como un set Term, postinglist
-    #siendo postinglist toda una string de docId, tf_idf; docId2, tf_idf;
+    # Index Data es cada linea del documento como un set Term, postinglist
+    # siendo postinglist toda una string de docId, tf_idf; docId2, tf_idf;
     def binary_search(self, term, index_data):
         left = 0
         right = len(index_data) - 1
@@ -309,7 +304,7 @@ class InvertIndex:
 
         return None
 
-    #Sequential Search on Index
+    # Sequential Search on Index
     def loop(self, term, index_data):
         for data in index_data:
             term_index = data[0]
@@ -335,7 +330,7 @@ class InvertIndex:
                 docId = docId_tfidfin.split(",")[0]
                 tf_idf = docId_tfidfin.split(",")[1]
                 cos_to_evaluar[docId][term] = tf_idf
-                #va guardando en cada doc, el tf idf en orden de los querys keywords
+                # va guardando en cada doc, el tf idf en orden de los querys keywords
             tf_ = calculate_tf(term, query)
             idf_ = idf_query[term]
             query_tfidf.append(tf_*idf_)
@@ -357,28 +352,31 @@ class InvertIndex:
         scores = scores[:k]
 
         temp = []
+        scores_values = []
         for result in scores:
             temp.append(result[0])
-
+            scores_values.append(result[1])
 
         # INDICES para hallar en el dataframe
         matching_indices = data.loc[data["track_id"].isin(temp)].index
         end_time = time.time()
 
-        execution_time = end_time - start_time
+        execution_time = round((end_time - start_time) * 1000, 3) # ms
 
-        return data.iloc[matching_indices],execution_time
+        return data.iloc[matching_indices], scores_values, execution_time
+        #return matching_indices, ...
 
     def prueba(self):
-        #Merge completo
+        # Merge completo
         self.SPIMIConstruction()
         merge_final = self.index_blocks()
         self.write_index_tf_idf(merge_final, len(merge_final))
+
     def prueba2(self):
         k = 5
         results,respuesta = self.retrieve_k_nearest("Beso", k,'spanish')
         return results, respuesta
 
-index = InvertIndex(index_file="spimi_portuguese.txt")
-results,tiempo = index.prueba2()
-print(results, tiempo)
+#index = InvertIndex(index_file="spimi_portuguese.txt")
+#results,tiempo = index.prueba2()
+#print(results, tiempo)
