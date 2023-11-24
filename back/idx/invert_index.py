@@ -141,7 +141,10 @@ def preprocesar_textos(texto):
 base_dir = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(base_dir, "data_spanish.csv") # updatable
 path_index = os.path.join(base_dir, "spimi_spanish.txt") # updatable
-blocks_dir = os.path.join(base_dir, "bloquesenglish") # updatable
+blocks_dir = os.path.join(base_dir, "bloquesspanish") # updatable
+
+
+print("---------->>>>", base_dir)
 
 ZERO_TRESHOLD = 0.000001
 
@@ -193,6 +196,7 @@ class InvertIndex:
         if dictTerms:
             sorted_block = sorted(dictTerms.items(), key=itemgetter(0))
             block_name = "bloque-"+str(block_n)+".txt"
+            
             block_path = os.path.join(blocks_dir, block_name)
             with open(block_path, "w") as file_part:
                 json.dump(sorted_block, file_part, indent=2)
@@ -313,9 +317,9 @@ class InvertIndex:
                 return docId_scores.split(";")[:-1]
         return None
 
-    def retrieve_k_nearest(self, query, k,language):
-        data = pd.read_csv(f'data_{language}.csv')
-        index_data = self.load_Index(f'spimi_{language}.txt')
+    def retrieve_k_nearest(self, query, k, language):
+        data = pd.read_csv(f'idx/data_{language}.csv')
+        index_data = self.load_Index(f'idx/spimi_{language}.txt')
         query = preprocesar_textos(query)
         cos_to_evaluar = defaultdict(dict)
         idf_query=defaultdict(float)
@@ -362,7 +366,7 @@ class InvertIndex:
         end_time = time.time()
 
         execution_time = round((end_time - start_time) * 1000, 3) # ms
-
+        print(data.iloc[matching_indices])
         return data.iloc[matching_indices], scores_values, execution_time
         #return matching_indices, ...
 

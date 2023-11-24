@@ -22,9 +22,9 @@ app.add_middleware(
 
 async def on_startup():
     try:
+        handlers['highd'] = HighdHandler()
         handlers['sequential'] = SequentialHandler()
         handlers['rtree'] = RTreeHandler()
-        handlers['highd'] = HighdHandler()
         handlers['invidx'] = InvIdxHandler()
     except Exception as e:
         print(f"Error: {e}")

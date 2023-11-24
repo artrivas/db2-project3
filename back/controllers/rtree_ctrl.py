@@ -1,6 +1,5 @@
 from fastapi.responses import JSONResponse
 from fastapi import UploadFile, File, Form
-from utils.extract_features import extract_features
 from typing import Optional
 from handlers_dict import handlers
 
@@ -11,9 +10,9 @@ async def get_knn_rtree(file: UploadFile = File(...), k: str = Form(...)) -> Opt
         path = 'music/uploads/' + file.filename
         with open(path, 'wb') as f:
             f.write(file.file.read())
-        all_features = extract_features(path)
         rtree = handlers['rtree']
-        neighbors = rtree.knn_query(all_features, int(k))
+        neighbors = rtree.knn_query(file.filename, int(k))
+        print(path)
         return {
             'content': neighbors,
             'status_code': 200

@@ -1,15 +1,11 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import HTTPException
 from fastapi.responses import StreamingResponse
-from typing import Optional
-from urllib.parse import unquote
+from urllib.parse import quote, unquote
 import os
 import unicodedata
 
-app = FastAPI()
-
 PATH_TO_MUSIC = 'music/songs'  # actualiza con la ruta global
 
-@app.get("/music/{song_name}")
 async def get_mp3_by_name(song_name: str): # -> Optional[StreamingResponse]:
     try:
         # Decodificar el nombre del archivo de la URL
@@ -33,7 +29,7 @@ async def get_mp3_by_name(song_name: str): # -> Optional[StreamingResponse]:
         song_path = os.path.join(PATH_TO_MUSIC, song_file)
 
         # Retornar el archivo MP3 como una respuesta de transmisión
-        return StreamingResponse(open(song_path, "rb"), media_type="audio/mpeg", headers={"Content-Disposition": f"attachment; filename={song_file}"})
+        return StreamingResponse(open(song_path, "rb"), media_type="audio/mpeg", headers={"Content-Disposition": f'attachment; filename="{quote(song_file)}"'})
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
