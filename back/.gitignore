@@ -4,6 +4,7 @@ utils/__pycache__
 routes/__pycache__
 handlers/__pycache__
 controllers/__pycache__
+idx/__pycache__
 __pycache__/
 
 music/music.rar
