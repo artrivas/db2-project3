@@ -1,37 +1,28 @@
 [
   [
-    "'Chu",
+    "'Cause",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        2
+      ]
+    ]
+  ],
+  [
+    "'Member",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "'bout",
+    "'frigerator",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
-      ]
-    ]
-  ],
-  [
-    "'d",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "'em",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        4
       ]
     ]
   ],
@@ -39,16 +30,16 @@
     "'m",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        4
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        4
+        "0yFvWTLs3iIwDbc91noXGT",
+        12
       ],
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        7
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        2
       ]
     ]
   ],
@@ -56,8 +47,16 @@
     "'re",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ],
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        3
       ]
     ]
   ],
@@ -65,61 +64,30 @@
     "'s",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        7
-      ],
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        13
-      ],
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        4
-      ]
-    ]
-  ],
-  [
-    "-r",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "About",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Ad",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "Aftermath",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "All",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         2
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        2
+      ]
+    ]
+  ],
+  [
+    "-rap-hip",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "-rock-permanent",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
       ]
     ]
   ],
@@ -127,30 +95,142 @@
     "And",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        15
+        "0yfNXxlyXdmP0ue1iJijx1",
+        2
       ]
     ]
   ],
   [
-    "Benz",
+    "Anything",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "Bridge",
+    "As",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "Ash",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Avoid",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Ayy",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         3
+      ]
+    ]
+  ],
+  [
+    "Baby",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        2
+      ]
+    ]
+  ],
+  [
+    "Back",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Bandicoot",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Because",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Big",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Bivins",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Brad",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Braxton",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Brothers",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
       ]
     ]
   ],
@@ -158,56 +238,38 @@
     "But",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
+      ]
+    ]
+  ],
+  [
+    "Ca",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Can",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        7
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        10
+        "0yFvWTLs3iIwDbc91noXGT",
+        8
       ]
     ]
   ],
   [
-    "C-Compton",
+    "Case-Jaheim-Just",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "CD",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Cabbage",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Call",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Callin",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
@@ -216,34 +278,25 @@
     "Cause",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "Chance",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
   ],
   [
-    "Charleston",
+    "Chills",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Chew",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Chicka-chicka-chicka",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
@@ -252,16 +305,16 @@
     "Chorus",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        3
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
       ]
     ]
   ],
   [
-    "Chronic",
+    "Come",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
@@ -270,70 +323,16 @@
     "Comin",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "Compton",
+    "Dip",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Cube",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "D-O-double-G'sAnd",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "D.O.C",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Dada",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "DeBarge-Got",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "Did",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -342,124 +341,88 @@
     "Do",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "Doc",
+    "Drip",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        5
+      ]
+    ]
+  ],
+  [
+    "Duran-Mine",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "Doctor",
+    "Editions",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "Dodge",
+    "Even",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        2
+      ]
+    ]
+  ],
+  [
+    "Ew",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Dre",
+    "Eww",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        9
-      ]
-    ]
-  ],
-  [
-    "Dre-Dr.",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Dre-Y'all",
+    "Fancy",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Dre-rap-gangster",
+    "Five",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Eazy-E",
+    "GRoCERIES-Chance",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Everybody",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Firm",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Forgot",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Fuck",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "G",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -468,8 +431,35 @@
     "Gave",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        2
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "Get",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Giving",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "God",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
       ]
     ]
   ],
@@ -477,71 +467,66 @@
     "Got",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "Guarantee",
+    "Grr",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Hailie",
+    "Happy",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "Hangin",
+    "Have",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        2
       ]
     ]
   ],
   [
-    "Hated",
+    "Her",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
       ]
     ]
   ],
   [
-    "Ho",
+    "Hercules",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
       ]
     ]
   ],
   [
-    "Hoppin",
+    "Hey",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Hotter",
-    [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        2
+      ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        6
       ]
     ]
   ],
@@ -549,16 +534,16 @@
     "I",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        4
+      ],
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         19
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        20
-      ],
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        31
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        15
       ]
     ]
   ],
@@ -566,34 +551,7 @@
     "I'ma",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        2
-      ]
-    ]
-  ],
-  [
-    "II",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Ice",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "If",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
@@ -602,16 +560,7 @@
     "In",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Is",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
@@ -620,11 +569,52 @@
     "It",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        3
-      ],
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "J-",
+    [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Jack",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Jas'Make",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Jasmine",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Jerz",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
@@ -633,35 +623,61 @@
     "Just",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        3
-      ]
-    ]
-  ],
-  [
-    "Kani",
-    [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "Karl",
+    "Kick",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "Keep",
+    "Kool-Aid",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Lemonade",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Let",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
         2
+      ]
+    ]
+  ],
+  [
+    "Lex",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
       ]
     ]
   ],
@@ -669,156 +685,165 @@
     "Like",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        8
-      ]
-    ]
-  ],
-  [
-    "Lookin",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "Mad",
+    "Lord",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        2
-      ]
-    ]
-  ],
-  [
-    "Makin",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Many-FLETCHER-I",
+    "Lost",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "Me",
+    "M-M-M-Murda",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Mercedes",
+    "Maid",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
       ]
     ]
   ],
   [
-    "Motherfuck",
+    "Make",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "N.W.AOne",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Nah",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
-      ]
-    ]
-  ],
-  [
-    "No",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         3
+      ]
+    ]
+  ],
+  [
+    "Might",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Mike",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Minute",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "Money",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "More",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "My",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "NA",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Never",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "New",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Oh",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Okay",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        3
+      ]
+    ]
+  ],
+  [
+    "Ooh",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        8
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        2
-      ]
-    ]
-  ],
-  [
-    "Nothing",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
-      ]
-    ]
-  ],
-  [
-    "Now",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        2
-      ]
-    ]
-  ],
-  [
-    "Nowadays",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        7
-      ]
-    ]
-  ],
-  [
-    "OG",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
-      ]
-    ]
-  ],
-  [
-    "Off",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "One",
-    [
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        8
       ]
     ]
   ],
@@ -826,70 +851,115 @@
     "Or",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "PATH",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Patrick",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Pieces",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Pitt",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Please",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        3
+      ]
+    ]
+  ],
+  [
+    "Put",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Rapper-NA",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "She",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Signed",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Simple",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
   ],
   [
-    "Patch",
+    "Simply",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
       ]
     ]
   ],
   [
-    "Rappers",
+    "Since",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Remix",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "Right",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        2
-      ]
-    ]
-  ],
-  [
-    "Shady",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Slim",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "Snoop",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -898,61 +968,71 @@
     "So",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ],
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        5
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        4
       ]
     ]
   ],
   [
-    "Soon",
+    "Source",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "Sorry",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "Startin",
+    "Stiff",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ],
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
       ]
     ]
   ],
   [
-    "That",
+    "Strip",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "The",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         2
+      ]
+    ]
+  ],
+  [
+    "Sugar",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Take",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Thai",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Thank",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
       ]
     ]
   ],
@@ -960,30 +1040,34 @@
     "Then",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "There",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "This",
+    "They",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
+      ],
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "Think",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        2
       ]
     ]
   ],
@@ -991,12 +1075,12 @@
     "To",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
+        "0yfNXxlyXdmP0ue1iJijx1",
+        4
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        4
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
       ]
     ]
   ],
@@ -1004,35 +1088,48 @@
     "Too",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "Tryna",
+    "Traffic",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Version-Chico",
+    "Uh",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "Walkman",
+    "Undone-Duran",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
+      ]
+    ]
+  ],
+  [
+    "Used",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
       ]
     ]
   ],
@@ -1040,7 +1137,16 @@
     "Wan",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "Watch",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
@@ -1049,17 +1155,17 @@
     "We",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
+        "0yfNXxlyXdmP0ue1iJijx1",
+        3
       ]
     ]
   ],
   [
-    "What",
+    "Wet",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        3
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
       ]
     ]
   ],
@@ -1067,21 +1173,8 @@
     "When",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        3
-      ]
-    ]
-  ],
-  [
-    "While",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ],
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yfNXxlyXdmP0ue1iJijx1",
+        6
       ]
     ]
   ],
@@ -1089,26 +1182,44 @@
     "Who",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        3
+        "0yfNXxlyXdmP0ue1iJijx1",
+        9
       ]
     ]
   ],
   [
-    "With",
+    "Why",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        4
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
       ]
     ]
   ],
   [
-    "Y'all",
+    "Words",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        3
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Write",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "Yeah",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        7
       ]
     ]
   ],
@@ -1116,25 +1227,8 @@
     "You",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
-      ],
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
-      ],
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        2
-      ]
-    ]
-  ],
-  [
-    "Your",
-    [
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        2
       ]
     ]
   ],
@@ -1142,25 +1236,16 @@
     "Yup",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "add",
+    "afraid",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "afford",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -1169,70 +1254,83 @@
     "ai",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ],
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        3
+      ]
+    ]
+  ],
+  [
+    "alive",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "alright",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "ants",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "arm",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         4
       ]
     ]
   ],
   [
-    "album",
+    "art",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "already-rock-classic",
+    "ass",
     [
       [
-        "0ZGLuduCPjgWY1n85ykgMe",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "anew",
+    "aunt",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "apartment",
+    "ayy",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "awkward",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "b-new",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "babies",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -1241,66 +1339,75 @@
     "baby",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ],
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        3
+      ]
+    ]
+  ],
+  [
+    "bag",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "band",
+    "balm",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "bass",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "birthday",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "black",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "blame",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "blind",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
-      ]
-    ]
-  ],
-  [
-    "barkin",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "beats",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "bed",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "bitch",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "bloodier",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
       ]
     ]
   ],
@@ -1308,35 +1415,35 @@
     "blow",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "boats",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "bow",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "breaks",
-    [
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
+      ]
+    ]
+  ],
+  [
+    "box",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "boys",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "breath",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
       ]
     ]
   ],
@@ -1344,79 +1451,92 @@
     "bring",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "broken",
+    "bringin",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "brought",
+    "burn",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        2
+      ]
+    ]
+  ],
+  [
+    "cards",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "bump",
+    "carpet",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "bumpin",
+    "carrots",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "bunch",
+    "carry",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        7
-      ]
-    ]
-  ],
-  [
-    "burnt-down",
-    [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "buy",
+    "case",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        4
+      ]
+    ]
+  ],
+  [
+    "cash",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "cats",
+    "catchin",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
@@ -1425,345 +1545,430 @@
     "caught",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "cheese",
+    "chapstick",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "choke",
+    "check",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "chorus",
+    "cherish",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "closely",
+    "child",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "coat",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "comin",
-    [
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        1
-      ]
-    ]
-  ],
-  [
-    "company",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "cops",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
       ]
     ]
   ],
   [
-    "crazy",
+    "chip",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        5
+      ]
+    ]
+  ],
+  [
+    "choose",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "crib",
+    "club",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "crumb",
+    "conclusion",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "cuddlin",
+    "cooler",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "damn",
+    "crash",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "dark",
+    "created",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "day",
+    "crime",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "cross",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "crow",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
   ],
   [
-    "deals",
+    "crowds",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "death",
+    "curb",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "diamonds",
+    "dance",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        3
       ]
     ]
   ],
   [
-    "direction",
+    "dawg",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
   ],
   [
-    "disease",
+    "deja",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "dogs",
+    "dinner",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "doin",
+    "dip",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "diss",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "dope",
+    "doorman",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "dough",
+    "drag",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "drop",
+    "drawers",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        2
-      ]
-    ]
-  ],
-  [
-    "drops",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "drunk",
+    "dream",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "eye",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "face",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ],
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "drip",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        10
+      ]
+    ]
+  ],
+  [
+    "drive",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "eatin",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "ebony",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "enter",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "eyes",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "facts",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "falling",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        6
+      ]
+    ]
+  ],
+  [
+    "fame",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "fat",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "fear",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
       ]
     ]
   ],
   [
-    "family",
+    "feeding",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "fell",
+    "feel",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        5
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "finally",
+    "filled",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "finds",
+    "fingers",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        2
-      ]
-    ]
-  ],
-  [
-    "flopped",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "forgot",
+    "flat",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        7
-      ]
-    ]
-  ],
-  [
-    "free",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "freeze",
+    "fly",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
+      ]
+    ]
+  ],
+  [
+    "forget",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "forgive",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        5
+      ]
+    ]
+  ],
+  [
+    "friend",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        6
       ]
     ]
   ],
@@ -1771,93 +1976,17 @@
     "fuck",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        4
-      ]
-    ]
-  ],
-  [
-    "fuckin",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "gangstas",
+    "gat",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
-      ]
-    ]
-  ],
-  [
-    "garage",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "gas",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "gats",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "gazin",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "gettin",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ],
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "gibberish",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        7
-      ]
-    ]
-  ],
-  [
-    "girl",
-    [
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        2
       ]
     ]
   ],
@@ -1865,24 +1994,29 @@
     "gon",
     [
       [
-        "0ZGLuduCPjgWY1n85ykgMe",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ],
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ],
+        "0yFvWTLs3iIwDbc91noXGT",
+        3
+      ]
+    ]
+  ],
+  [
+    "graffiti",
+    [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         2
       ]
     ]
   ],
   [
-    "good",
+    "grass",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -1891,61 +2025,47 @@
     "groceries",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "grow",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
-      ]
-    ]
-  ],
-  [
-    "group",
-    [
+      ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "guarantee",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        3
-      ]
-    ]
-  ],
-  [
-    "guaranteed",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
   ],
   [
-    "guns",
+    "growin",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "guy",
+    "grr",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "habitat",
+    "haircut",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -1954,88 +2074,87 @@
     "hand",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "hands",
+    "heard",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "hard",
+    "heart",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "harder",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "hate",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
       ]
     ]
   ],
   [
-    "havin",
+    "heavens",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "head",
+    "held",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "helped",
+    "hey",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        2
+      ]
+    ]
+  ],
+  [
+    "hip",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "high",
+    "hold",
     [
       [
-        "0ZGLuduCPjgWY1n85ykgMe",
-        3
+        "0yFvWTLs3iIwDbc91noXGT",
+        2
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
       ]
     ]
   ],
   [
-    "hood",
+    "hop",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ],
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -2044,34 +2163,52 @@
     "hope",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        6
-      ]
-    ]
-  ],
-  [
-    "house",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
       ]
     ]
   ],
   [
-    "humongous",
+    "hotel",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "increase",
+    "huh",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "imagine",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "immaculate",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "ism",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
@@ -2080,142 +2217,110 @@
     "jack",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "jungle",
+    "jit",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "kill",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "knees",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "lab",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "label",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "ladies",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "lady",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        3
-      ]
-    ]
-  ],
-  [
-    "late",
-    [
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        1
-      ]
-    ]
-  ],
-  [
-    "layaway",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "legs",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "libs",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "life",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         4
       ]
     ]
   ],
   [
-    "lips",
+    "kick",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        7
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        2
       ]
     ]
   ],
   [
-    "listen",
+    "kitchen",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "loco",
+    "kitty",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "lavish",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "lemonade",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        14
+      ]
+    ]
+  ],
+  [
+    "letting",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "lip",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "live",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "living",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "long",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        2
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
@@ -2224,25 +2329,7 @@
     "lookin",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "lot",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "loud-ass",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -2251,124 +2338,42 @@
     "love",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        9
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        5
+      ]
+    ]
+  ],
+  [
+    "magic",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "lovin",
+    "man",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "low-key",
+    "moment",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "mail",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "matches",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "men",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "mid-80s",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "millennium",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "missin",
-    [
-      [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        1
-      ]
-    ]
-  ],
-  [
-    "mold",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "money",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "monthly",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "motherfuckers",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        8
-      ]
-    ]
-  ],
-  [
-    "motherfuckin",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
@@ -2377,291 +2382,227 @@
     "n't",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
       ],
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        10
-      ]
-    ]
-  ],
-  [
-    "nah",
-    [
+        "0yFvWTLs3iIwDbc91noXGT",
+        5
+      ],
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         4
       ]
     ]
   ],
   [
-    "niggas",
+    "nacho",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "nigga",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        2
+      ],
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "noise",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "ooh",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "paint",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "pants",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "peel",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "pieces",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
       ]
     ]
   ],
   [
-    "night",
+    "pizazz",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "nothin",
+    "play",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        8
-      ]
-    ]
-  ],
-  [
-    "office",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "oldies",
+    "playing",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "pad",
+    "prone",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "park",
+    "queen",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "parking",
+    "rabbit",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "pay",
+    "radio",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "real",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "red",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "remember",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "remorse",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "rocks",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "sack",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "satisfied",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "seams",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
-      ]
-    ]
-  ],
-  [
-    "pen",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "plaque",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "plaques",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "platinum",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "police",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "pop",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "pretty",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "provide",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "pushin",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
-      ]
-    ]
-  ],
-  [
-    "rain",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "rap",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        2
-      ]
-    ]
-  ],
-  [
-    "rattle",
-    [
-      [
-        "0ZGLuduCPjgWY1n85ykgMe",
-        1
-      ]
-    ]
-  ],
-  [
-    "reason",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "rent",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "resolve",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "rock",
-    [
-      [
-        "0ZGLuduCPjgWY1n85ykgMe",
-        1
-      ]
-    ]
-  ],
-  [
-    "room",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "sales",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "savage",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "save",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "sayin",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
       ]
     ]
   ],
@@ -2669,25 +2610,128 @@
     "set",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "sick",
+    "shade",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        3
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
       ]
     ]
   ],
   [
-    "skis",
+    "shame",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "shared",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "shawty",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "shine",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        1
+      ]
+    ]
+  ],
+  [
+    "shorty",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "shout",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        2
+      ]
+    ]
+  ],
+  [
+    "side-rap-southern",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "simple",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        8
+      ]
+    ]
+  ],
+  [
+    "sip",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "skin",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ],
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "sky",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "slash",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
@@ -2696,80 +2740,98 @@
     "sleep",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "smoke",
+    "slip",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "snake",
+    "slurs",
     [
       [
-        "0ZGLuduCPjgWY1n85ykgMe",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "snowmobiles",
+    "snooze",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "sold",
+    "snore",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "somethin",
+    "snow",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        8
-      ]
-    ]
-  ],
-  [
-    "space",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "spent",
+    "spades",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "squeaky",
+    "special",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
+      ]
+    ]
+  ],
+  [
+    "sporks",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "stab",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "star",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        2
       ]
     ]
   ],
@@ -2777,53 +2839,35 @@
     "stay",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        4
+      ]
+    ]
+  ],
+  [
+    "stick",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        2
+      ]
+    ]
+  ],
+  [
+    "sticker",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "stood",
+    "strip",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "strangled",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "strapped",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "streets",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "stroll",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
+        "0yFvWTLs3iIwDbc91noXGT",
+        2
       ]
     ]
   ],
@@ -2831,62 +2875,35 @@
     "strong",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        3
-      ]
-    ]
-  ],
-  [
-    "studio",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "study",
+    "support",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "suck",
+    "swear",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
-        2
-      ]
-    ]
-  ],
-  [
-    "swing",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "ta",
+    "systems",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        2
-      ]
-    ]
-  ],
-  [
-    "talk",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        7
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
       ]
     ]
   ],
@@ -2894,169 +2911,150 @@
     "talkin",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "tape",
+    "tattoo",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "tender",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ],
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
   ],
   [
-    "taught",
+    "text",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "temp",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "tiny",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        1
-      ]
-    ]
-  ],
-  [
-    "today",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "told",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         2
       ]
     ]
   ],
   [
-    "tomorrow",
+    "time",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ],
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "tracks",
+    "tonight",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "trees",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "trophies",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "trouble",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "truck",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "tryin",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "tryna",
-    [
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         2
       ]
     ]
   ],
   [
-    "turn",
+    "toys",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "turned",
+    "track",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "twin",
+    "traffic",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "two-car",
+    "tree",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "trip",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        4
+      ]
+    ]
+  ],
+  [
+    "tune",
+    [
+      [
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "uh",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        1
+      ]
+    ]
+  ],
+  [
+    "ultra",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "um",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        2
+      ]
+    ]
+  ],
+  [
+    "underground",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
@@ -3065,34 +3063,52 @@
     "undone",
     [
       [
-        "0zhGp6rH3Em8VTS44hTOmT",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        8
+      ]
+    ]
+  ],
+  [
+    "uptown",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "walk",
+    "victims",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yf6ORR6kV4iEn6T78XKbZ",
         1
       ]
     ]
   ],
   [
-    "walkin",
+    "vu",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "wall",
+    "waiting",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        1
+      ]
+    ]
+  ],
+  [
+    "wake",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
@@ -3101,75 +3117,107 @@
     "wan",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
-        4
-      ],
-      [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        9
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        5
       ]
     ]
   ],
   [
-    "wheels",
+    "water",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "window",
+    "wave",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
         1
       ]
     ]
   ],
   [
-    "windows",
+    "wife",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
+        "0YHBvFhfCJHyP5qfgtiX1o",
         1
       ]
     ]
   ],
   [
-    "wo",
+    "wilder",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        1
-      ]
-    ]
-  ],
-  [
-    "wonderin",
-    [
-      [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
         2
       ]
     ]
   ],
   [
-    "work",
+    "wind",
     [
       [
-        "0ZgTez1pojM5aCxsV0hrC9",
+        "0yfNXxlyXdmP0ue1iJijx1",
+        2
+      ]
+    ]
+  ],
+  [
+    "wore",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
         1
       ]
     ]
   ],
   [
-    "y'all",
+    "wreck",
     [
       [
-        "0Zh5U48tZNeAzzLTV1CVBE",
-        4
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        2
+      ]
+    ]
+  ],
+  [
+    "x2",
+    [
+      [
+        "0YHBvFhfCJHyP5qfgtiX1o",
+        2
+      ]
+    ]
+  ],
+  [
+    "yeah",
+    [
+      [
+        "0yFvWTLs3iIwDbc91noXGT",
+        6
+      ]
+    ]
+  ],
+  [
+    "zapped",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
+      ]
+    ]
+  ],
+  [
+    "zone",
+    [
+      [
+        "0yf6ORR6kV4iEn6T78XKbZ",
+        1
       ]
     ]
   ]

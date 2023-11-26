@@ -1,10 +1,37 @@
 [
   [
-    "-latin-reggaeton",
+    "'m",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        9
+      ]
+    ]
+  ],
+  [
+    "'s",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
+      ]
+    ]
+  ],
+  [
+    "-latin-latin",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        1
+      ]
+    ]
+  ],
+  [
+    "A-A",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
       ]
     ]
   ],
@@ -36,20 +63,20 @@
     ]
   ],
   [
-    "Ahora",
+    "All",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "Al",
+    "As\u00ed",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
       ]
     ]
   ],
@@ -63,95 +90,28 @@
     ]
   ],
   [
-    "Bienaventurado",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
     "Buscate",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "16LDbpqgCtvEZDQ5wfOWrj",
         2
       ]
     ]
   ],
   [
-    "Cada",
+    "Coca",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "Cancion-Elvis",
+    "Cola",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        1
-      ]
-    ]
-  ],
-  [
-    "Cargando",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Celebremos",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Celia",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Chilling",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        2
-      ]
-    ]
-  ],
-  [
-    "Clemente",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Compongo",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -160,17 +120,17 @@
     "Con",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "Crespo-Oh",
+    "Crudo",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        1
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        2
       ]
     ]
   ],
@@ -184,25 +144,8 @@
     ]
   ],
   [
-    "Daddy",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
     "De",
     [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ],
       [
         "16r6flH0Ib6cL8liYLsx8W",
         4
@@ -228,20 +171,11 @@
     ]
   ],
   [
-    "Derrotando",
+    "Doble",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Discipulos",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        4
       ]
     ]
   ],
@@ -267,21 +201,12 @@
     "El",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "16LDbpqgCtvEZDQ5wfOWrj",
         2
-      ]
-    ]
-  ],
-  [
-    "Ellos",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        2
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        3
       ]
     ]
   ],
@@ -291,6 +216,10 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         2
+      ],
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        3
       ]
     ]
   ],
@@ -298,30 +227,39 @@
     "Esa",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ],
-      [
         "16r6flH0Ib6cL8liYLsx8W",
         16
-      ]
-    ]
-  ],
-  [
-    "Estilos",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "Existiendo",
+    "Estaba",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
+      ]
+    ]
+  ],
+  [
+    "Ey",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Fuiste",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        3
       ]
     ]
   ],
@@ -344,19 +282,10 @@
     ]
   ],
   [
-    "Hablando",
+    "Hey",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Hacer",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -365,47 +294,38 @@
     "Hoy",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "16LDbpqgCtvEZDQ5wfOWrj",
         2
-      ]
-    ]
-  ],
-  [
-    "Judas",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "Juegate",
+    "I",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        22
+      ]
+    ]
+  ],
+  [
+    "Keo",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "King",
+    "Keo-NA",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Kong",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -414,35 +334,8 @@
     "La",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         2
-      ]
-    ]
-  ],
-  [
-    "Le",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Lennox",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Llego",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
       ]
     ]
   ],
@@ -450,29 +343,38 @@
     "Lo",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "17G9G5tBsdzmKmoHIh00sX",
         8
-      ]
-    ]
-  ],
-  [
-    "Maleantes",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "Ma\u0441ana",
+    "Mam\u00e1",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "Marte",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Matador",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -487,6 +389,14 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         5
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ],
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        2
       ]
     ]
   ],
@@ -500,19 +410,19 @@
     ]
   ],
   [
-    "Miralo",
+    "Miss",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "Mire",
+    "N",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -522,6 +432,10 @@
     [
       [
         "16r6flH0Ib6cL8liYLsx8W",
+        1
+      ],
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
         1
       ]
     ]
@@ -557,44 +471,40 @@
     "No",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17G9G5tBsdzmKmoHIh00sX",
+        4
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ],
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        8
-      ],
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        2
+      ]
+    ]
+  ],
+  [
+    "Now",
+    [
       [
-        "17G9G5tBsdzmKmoHIh00sX",
+        "17NW5LLmN6PXrUdknZ6iT1",
         4
       ]
     ]
   ],
   [
-    "Nosotros",
+    "Nunca",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Nuestra",
-    [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        1
+        "17J2patkIezB1LxcBbDpDl",
+        2
       ]
     ]
   ],
   [
     "Oh",
     [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        9
-      ],
       [
         "17G9G5tBsdzmKmoHIh00sX",
         12
@@ -620,16 +530,25 @@
     ]
   ],
   [
-    "Ojala",
+    "Pa",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
+      ]
+    ]
+  ],
+  [
+    "Pantera",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "Pa",
+    "Papi",
     [
       [
         "17G9G5tBsdzmKmoHIh00sX",
@@ -656,6 +575,15 @@
     ]
   ],
   [
+    "Perdon\u00e9-Ventino-S\u00e9",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
     "Pero",
     [
       [
@@ -674,11 +602,11 @@
     ]
   ],
   [
-    "Por",
+    "Porcion-NA",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
       ]
     ]
   ],
@@ -688,24 +616,6 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         4
-      ]
-    ]
-  ],
-  [
-    "Puente",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Puerto",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
       ]
     ]
   ],
@@ -724,6 +634,23 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         16
+      ],
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        2
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
+      ]
+    ]
+  ],
+  [
+    "Quiere",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
       ]
     ]
   ],
@@ -731,12 +658,17 @@
     "Quiero",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ],
-      [
         "16r6flH0Ib6cL8liYLsx8W",
         4
+      ]
+    ]
+  ],
+  [
+    "Recuerdo",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
       ]
     ]
   ],
@@ -759,10 +691,28 @@
     ]
   ],
   [
-    "Rico",
+    "Roca",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "Ron",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "Ron-Doble",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -786,10 +736,10 @@
     ]
   ],
   [
-    "Seremos",
+    "She",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -798,12 +748,30 @@
     "Si",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "17G9G5tBsdzmKmoHIh00sX",
         2
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        3
+      ]
+    ]
+  ],
+  [
+    "Siempre",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
+    "Siento",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
       ]
     ]
   ],
@@ -817,29 +785,29 @@
     ]
   ],
   [
-    "Somos",
+    "Son",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "Sucio",
+    "Soy",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "Tan",
+    "Tantas",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
+        "17J2patkIezB1LxcBbDpDl",
+        1
       ]
     ]
   ],
@@ -847,34 +815,24 @@
     "Te",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Tengo",
-    [
+        "17G9G5tBsdzmKmoHIh00sX",
+        4
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "Tito",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         2
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
       ]
     ]
   ],
   [
-    "Toditos",
+    "Tu",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -889,37 +847,28 @@
     ]
   ],
   [
-    "Un",
+    "U-Kidd",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        2
-      ]
-    ]
-  ],
-  [
-    "Vali\u0443",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "Vamonos",
+    "Viendo",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "Voy",
+    "Where",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -928,16 +877,33 @@
     "Y",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        3
-      ],
-      [
         "16r6flH0Ib6cL8liYLsx8W",
         4
       ],
       [
         "17G9G5tBsdzmKmoHIh00sX",
         12
+      ],
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        14
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
+      ]
+    ]
+  ],
+  [
+    "Ya",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        2
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
       ]
     ]
   ],
@@ -946,15 +912,6 @@
     [
       [
         "16r6flH0Ib6cL8liYLsx8W",
-        1
-      ]
-    ]
-  ],
-  [
-    "Yankee",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
         1
       ]
     ]
@@ -974,14 +931,36 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         8
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        5
       ]
     ]
   ],
   [
-    "actitud",
+    "You",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "Zeta",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        2
+      ]
+    ]
+  ],
+  [
+    "abrazo",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
@@ -1019,6 +998,10 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         2
+      ],
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
       ]
     ]
   ],
@@ -1032,29 +1015,20 @@
     ]
   ],
   [
+    "alejarse",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        3
+      ]
+    ]
+  ],
+  [
     "alguien",
     [
       [
         "17G9G5tBsdzmKmoHIh00sX",
         6
-      ]
-    ]
-  ],
-  [
-    "algun",
-    [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ]
-    ]
-  ],
-  [
-    "alicates",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
       ]
     ]
   ],
@@ -1068,11 +1042,38 @@
     ]
   ],
   [
+    "alone",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
     "ama",
     [
       [
         "17G9G5tBsdzmKmoHIh00sX",
         2
+      ]
+    ]
+  ],
+  [
+    "amantes",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "amarte",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
       ]
     ]
   ],
@@ -1095,6 +1096,15 @@
     ]
   ],
   [
+    "and",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        6
+      ]
+    ]
+  ],
+  [
     "angel",
     [
       [
@@ -1104,20 +1114,24 @@
     ]
   ],
   [
-    "apaga",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
     "aqu\u00ed",
     [
       [
         "16r6flH0Ib6cL8liYLsx8W",
         4
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
+      ]
+    ]
+  ],
+  [
+    "are",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
@@ -1131,15 +1145,6 @@
     ]
   ],
   [
-    "asi",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
     "as\u00ed",
     [
       [
@@ -1149,20 +1154,20 @@
     ]
   ],
   [
-    "azucar",
+    "baby",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        7
       ]
     ]
   ],
   [
-    "bacalao",
+    "back",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
@@ -1179,21 +1184,8 @@
     "bailando",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "16r6flH0Ib6cL8liYLsx8W",
         44
-      ]
-    ]
-  ],
-  [
-    "bajes",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
       ]
     ]
   ],
@@ -1207,19 +1199,28 @@
     ]
   ],
   [
-    "barrio",
+    "barra",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "baterias",
+    "bast\u00f3n",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "beber",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -1243,28 +1244,10 @@
     ]
   ],
   [
-    "bombillon",
+    "bruto",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "brazo",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "brisca",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -1279,11 +1262,29 @@
     ]
   ],
   [
-    "caballota",
+    "buscarte",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
+      ]
+    ]
+  ],
+  [
+    "but",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "by",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        3
       ]
     ]
   ],
@@ -1297,19 +1298,10 @@
     ]
   ],
   [
-    "callar",
+    "calle",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ]
-    ]
-  ],
-  [
-    "callej\u0443n",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -1324,119 +1316,65 @@
     ]
   ],
   [
-    "cancion",
+    "cantante",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        4
-      ]
-    ]
-  ],
-  [
-    "canta",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "canto",
+    "casa",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "caza",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "ciego",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "coca",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "come",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "coming",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         2
-      ]
-    ]
-  ],
-  [
-    "capitulo",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "capricho",
-    [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ]
-    ]
-  ],
-  [
-    "cartas",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "cart\u0443n",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "cascara",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "chota",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "claro",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "clave",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "coge-bofeta",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "combo",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
       ]
     ]
   ],
@@ -1450,29 +1388,15 @@
     ]
   ],
   [
-    "conciencia",
+    "culpa",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
-      ]
-    ]
-  ],
-  [
-    "copiando",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
-      ]
-    ]
-  ],
-  [
-    "cora",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        2
       ]
     ]
   ],
@@ -1480,17 +1404,21 @@
     "das",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
+      ],
+      [
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "decia",
+    "decidi\u00f3",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
+        "17J2patkIezB1LxcBbDpDl",
+        3
       ]
     ]
   ],
@@ -1522,46 +1450,28 @@
     ]
   ],
   [
-    "demora",
+    "despu\u00e9s",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "despedida",
+    "devuelve",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ]
-    ]
-  ],
-  [
-    "dia",
-    [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ]
-    ]
-  ],
-  [
-    "dificil",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "diga",
+    "diamantes",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -1576,20 +1486,29 @@
     ]
   ],
   [
-    "disco",
+    "dije",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17J2patkIezB1LxcBbDpDl",
+        3
       ]
     ]
   ],
   [
-    "diva",
+    "do",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
+      ]
+    ]
+  ],
+  [
+    "domino",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
       ]
     ]
   ],
@@ -1603,46 +1522,64 @@
     ]
   ],
   [
-    "doy",
+    "drogu\u00e9",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "duda",
+    "d\u00f3nde",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        7
+      ]
+    ]
+  ],
+  [
+    "eche",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "duro",
+    "echo",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
+      ]
+    ]
+  ],
+  [
+    "elegantes",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "echate",
+    "encontrar\u00e1s",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "enredao",
+    "enemigo",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
@@ -1675,28 +1612,55 @@
     ]
   ],
   [
-    "escuche",
+    "estudias",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "esperando",
+    "est\u00e1bamos",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "estipulo",
+    "est\u00e1s",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        11
+      ]
+    ]
+  ],
+  [
+    "even",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
+      ]
+    ]
+  ],
+  [
+    "extra\u00f1\u00e9",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        3
+      ]
+    ]
+  ],
+  [
+    "ey",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -1711,10 +1675,10 @@
     ]
   ],
   [
-    "falta",
+    "feel",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -1729,55 +1693,37 @@
     ]
   ],
   [
-    "firme",
+    "finos",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "frente",
+    "flaca",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "frontean",
+    "formato",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
       ]
     ]
   ],
   [
-    "fronteando",
+    "fuerte",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "fuego",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "fuertemente",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
@@ -1792,10 +1738,46 @@
     ]
   ],
   [
-    "fundi\u0439ndote",
+    "gano",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
+    "going",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        6
+      ]
+    ]
+  ],
+  [
+    "got",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        5
+      ]
+    ]
+  ],
+  [
+    "guap",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "guapa",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -1810,10 +1792,10 @@
     ]
   ],
   [
-    "hablando",
+    "g\u00fceler",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -1837,6 +1819,42 @@
     ]
   ],
   [
+    "hackeo",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
+      ]
+    ]
+  ],
+  [
+    "has",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
+    "have",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "heart",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
     "hechar",
     [
       [
@@ -1846,64 +1864,64 @@
     ]
   ],
   [
-    "herida",
+    "hoes",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "hermano",
+    "homies",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "hermanos",
+    "importa",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "hu\u0439rfanos",
+    "importante",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
+        3
+      ]
+    ]
+  ],
+  [
+    "intent\u00e9",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "idioma",
+    "is",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
       ]
     ]
   ],
   [
-    "inyecta",
+    "jodas",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "jamas",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -1927,10 +1945,19 @@
     ]
   ],
   [
-    "juro",
+    "j\u00edbaro",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "know",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -1972,37 +1999,19 @@
     ]
   ],
   [
-    "letal",
+    "link",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "liriqueo",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "llegar",
-    [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
+        "17G9G5tBsdzmKmoHIh00sX",
         2
       ]
     ]
   ],
   [
-    "llego",
+    "llamar",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         2
       ]
     ]
@@ -2011,29 +2020,16 @@
     "llevo",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "16LDbpqgCtvEZDQ5wfOWrj",
         2
       ]
     ]
   ],
   [
-    "llueve",
+    "lobas",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "locario",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -2044,6 +2040,19 @@
       [
         "16r6flH0Ib6cL8liYLsx8W",
         46
+      ],
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        8
+      ]
+    ]
+  ],
+  [
+    "mal",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        3
       ]
     ]
   ],
@@ -2057,20 +2066,20 @@
     ]
   ],
   [
-    "mambo",
+    "mami",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "mami",
+    "mam\u00e1",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        2
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
       ]
     ]
   ],
@@ -2084,6 +2093,15 @@
     ]
   ],
   [
+    "marchaste",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
     "mas",
     [
       [
@@ -2093,83 +2111,47 @@
     ]
   ],
   [
-    "mascaras",
+    "mind",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "matando",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "matandolos",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "meto",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         2
       ]
     ]
   ],
   [
-    "micr\u0443fono",
+    "miss",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
       ]
     ]
   ],
   [
-    "miles",
+    "mommy",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
   [
-    "mill\u0443n",
+    "money",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
   [
-    "mono",
+    "more",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "morfina",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
@@ -2183,11 +2165,11 @@
     ]
   ],
   [
-    "musica",
+    "my",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        22
       ]
     ]
   ],
@@ -2201,10 +2183,19 @@
     ]
   ],
   [
-    "necesarios",
+    "n't",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
+      ]
+    ]
+  ],
+  [
+    "need",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -2219,10 +2210,10 @@
     ]
   ],
   [
-    "ningun",
+    "never",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -2237,28 +2228,55 @@
     ]
   ],
   [
-    "nudillos",
+    "noches",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
+        2
+      ]
+    ]
+  ],
+  [
+    "not",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "nudo",
+    "nova",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "obligaci\u0443n",
+    "novio",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        3
+      ]
+    ]
+  ],
+  [
+    "now",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        6
+      ]
+    ]
+  ],
+  [
+    "odiarte",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
@@ -2266,10 +2284,6 @@
   [
     "oh",
     [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        6
-      ],
       [
         "17G9G5tBsdzmKmoHIh00sX",
         16
@@ -2295,20 +2309,24 @@
     ]
   ],
   [
-    "opini\u0443n",
+    "olvidarte",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "oscuro",
+    "on",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        8
       ]
     ]
   ],
@@ -2327,15 +2345,10 @@
       [
         "16r6flH0Ib6cL8liYLsx8W",
         8
-      ]
-    ]
-  ],
-  [
-    "pa'ca",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
@@ -2358,55 +2371,10 @@
     ]
   ],
   [
-    "palos",
+    "pantera",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "papeles",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "pare",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "paro",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "parta",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "paso",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -2430,6 +2398,15 @@
     ]
   ],
   [
+    "pediste",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        5
+      ]
+    ]
+  ],
+  [
     "peligro",
     [
       [
@@ -2448,19 +2425,46 @@
     ]
   ],
   [
-    "perra",
+    "perdido",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "perrean",
+    "perdon\u00e9",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
+        4
+      ]
+    ]
+  ],
+  [
+    "perdon\u00e9-latin-latin",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
+    "perd\u00ed",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        5
+      ]
+    ]
+  ],
+  [
+    "pido",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -2493,28 +2497,50 @@
     ]
   ],
   [
-    "pista",
+    "pink",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
+      ]
+    ]
+  ],
+  [
+    "pongo",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
+      ]
+    ]
+  ],
+  [
+    "pop",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        1
+      ],
+      [
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "plantocon",
+    "porqu\u00e9",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17J2patkIezB1LxcBbDpDl",
+        3
       ]
     ]
   ],
   [
-    "potra",
+    "pregunta",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -2529,11 +2555,11 @@
     ]
   ],
   [
-    "preocupaci\u0443n",
+    "preguntaste",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17J2patkIezB1LxcBbDpDl",
+        3
       ]
     ]
   ],
@@ -2565,28 +2591,19 @@
     ]
   ],
   [
-    "q",
+    "querer",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        20
+        "17J2patkIezB1LxcBbDpDl",
+        2
       ]
     ]
   ],
   [
-    "quedemos",
+    "quer\u00eda",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "queen",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -2597,6 +2614,10 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         2
+      ],
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
       ]
     ]
   ],
@@ -2616,10 +2637,6 @@
   [
     "quiero",
     [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        2
-      ],
       [
         "16r6flH0Ib6cL8liYLsx8W",
         8
@@ -2641,59 +2658,27 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         2
-      ]
-    ]
-  ],
-  [
-    "rayo",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "recuerdes",
-    [
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
+        "17NW5LLmN6PXrUdknZ6iT1",
         2
       ]
     ]
   ],
   [
-    "reggaeton",
+    "rapper",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
   ],
   [
-    "reina",
+    "recognize",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "reparti\u0443",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "residencial",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -2708,82 +2693,28 @@
     ]
   ],
   [
-    "rumba",
+    "restaurantes",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "robo",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
         2
       ]
     ]
   ],
   [
-    "sabotaje",
+    "roto",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "sacuda",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "salga",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "salgo",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "salsa",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "salvaje",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "sandungueo",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "sangren",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -2825,11 +2756,20 @@
     ]
   ],
   [
-    "siente",
+    "shit",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        3
+      ]
+    ]
+  ],
+  [
+    "side",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        4
       ]
     ]
   ],
@@ -2839,42 +2779,46 @@
       [
         "16LDbpqgCtvEZDQ5wfOWrj",
         2
-      ]
-    ]
-  ],
-  [
-    "siga",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "soneo",
+    "silencio",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "sudan",
+    "sinti\u00f3",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
       ]
     ]
   ],
   [
-    "sudando",
+    "sky",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
+      ]
+    ]
+  ],
+  [
+    "so",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
@@ -2888,11 +2832,51 @@
     ]
   ],
   [
+    "suerte",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
+    "sue\u00f1as",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
+    "suficiente",
+    [
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        1
+      ]
+    ]
+  ],
+  [
+    "supe",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
+      ]
+    ]
+  ],
+  [
     "s\u00e9",
     [
       [
         "17G9G5tBsdzmKmoHIh00sX",
         14
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        10
       ]
     ]
   ],
@@ -2906,34 +2890,8 @@
     ]
   ],
   [
-    "talla",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "tanta",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
     "te",
     [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
-        "16LDbpqgCtvEZDQ5wfOWrj",
-        8
-      ],
       [
         "16r6flH0Ib6cL8liYLsx8W",
         8
@@ -2941,6 +2899,14 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         22
+      ],
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        13
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        8
       ]
     ]
   ],
@@ -2954,10 +2920,28 @@
     ]
   ],
   [
-    "tenia",
+    "that",
     [
       [
-        "16LDbpqgCtvEZDQ5wfOWrj",
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
+      ]
+    ]
+  ],
+  [
+    "the",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        7
+      ]
+    ]
+  ],
+  [
+    "this",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
         2
       ]
     ]
@@ -2972,6 +2956,10 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         8
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
       ]
     ]
   ],
@@ -2985,29 +2973,29 @@
     ]
   ],
   [
-    "tipo",
+    "tirando",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
   ],
   [
-    "tiro",
+    "to",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        6
       ]
     ]
   ],
   [
-    "titulo",
+    "top",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        5
       ]
     ]
   ],
@@ -3021,20 +3009,38 @@
     ]
   ],
   [
+    "town",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        6
+      ]
+    ]
+  ],
+  [
+    "tratando",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "tratarte",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
     "triste",
     [
       [
         "16LDbpqgCtvEZDQ5wfOWrj",
         2
-      ]
-    ]
-  ],
-  [
-    "truene",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
       ]
     ]
   ],
@@ -3048,23 +3054,22 @@
       [
         "16r6flH0Ib6cL8liYLsx8W",
         4
-      ]
-    ]
-  ],
-  [
-    "tumbao",
-    [
+      ],
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17J2patkIezB1LxcBbDpDl",
         1
+      ],
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        3
       ]
     ]
   ],
   [
-    "turro",
+    "tuya",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -3075,6 +3080,14 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         6
+      ],
+      [
+        "17J2patkIezB1LxcBbDpDl",
+        3
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        6
       ]
     ]
   ],
@@ -3084,6 +3097,28 @@
       [
         "16r6flH0Ib6cL8liYLsx8W",
         4
+      ],
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        5
+      ]
+    ]
+  ],
+  [
+    "vas",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "vas-rap-trap",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
       ]
     ]
   ],
@@ -3100,7 +3135,7 @@
     "vengo",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17NW5LLmN6PXrUdknZ6iT1",
         1
       ]
     ]
@@ -3109,38 +3144,34 @@
     "vi",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ],
-      [
         "17G9G5tBsdzmKmoHIh00sX",
         12
       ]
     ]
   ],
   [
-    "viaje",
+    "victoria",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
-      ]
-    ]
-  ],
-  [
-    "viene",
-    [
-      [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17G9G5tBsdzmKmoHIh00sX",
         2
       ]
     ]
   ],
   [
-    "voltaje",
+    "viendo",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
+        "17tWQcqeNO4Hh0RF9gJcvO",
+        1
+      ]
+    ]
+  ],
+  [
+    "vuelta",
+    [
+      [
+        "17tWQcqeNO4Hh0RF9gJcvO",
         1
       ]
     ]
@@ -3155,6 +3186,33 @@
     ]
   ],
   [
+    "was",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "where",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        1
+      ]
+    ]
+  ],
+  [
+    "wish",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        2
+      ]
+    ]
+  ],
+  [
     "yay",
     [
       [
@@ -3164,11 +3222,11 @@
     ]
   ],
   [
-    "zona",
+    "you",
     [
       [
-        "16KDdey3vnSBWwqUZoe1cT",
-        1
+        "17NW5LLmN6PXrUdknZ6iT1",
+        9
       ]
     ]
   ],
@@ -3178,6 +3236,24 @@
       [
         "17G9G5tBsdzmKmoHIh00sX",
         2
+      ]
+    ]
+  ],
+  [
+    "\u00a1Ah\u00ed",
+    [
+      [
+        "17G9G5tBsdzmKmoHIh00sX",
+        2
+      ]
+    ]
+  ],
+  [
+    "\u00bfqu\u00e9",
+    [
+      [
+        "17NW5LLmN6PXrUdknZ6iT1",
+        5
       ]
     ]
   ]

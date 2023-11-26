@@ -1,23 +1,5 @@
 [
   [
-    "'Cause",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "'s",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        6
-      ]
-    ]
-  ],
-  [
     "-latin-tropical",
     [
       [
@@ -117,19 +99,19 @@
     ]
   ],
   [
-    "Bailame",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "Cae",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "Candela-Vicente",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
         1
       ]
     ]
@@ -140,6 +122,15 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
+      ]
+    ]
+  ],
+  [
+    "Como",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        3
       ]
     ]
   ],
@@ -162,11 +153,20 @@
     ]
   ],
   [
-    "C\u00eeroc",
+    "Critican",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "Cuando",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        1
       ]
     ]
   ],
@@ -193,12 +193,26 @@
     ]
   ],
   [
-    "El",
+    "Directo",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        16
-      ],
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "Dudo",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "El",
+    [
       [
         "0is5MOZLNpo5iAY3M0B9ml",
         2
@@ -215,6 +229,10 @@
       [
         "0is5MOZLNpo5iAY3M0B9ml",
         3
+      ],
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -264,11 +282,29 @@
     ]
   ],
   [
-    "Gave",
+    "Fe",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "Garcia-Como",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        1
+      ]
+    ]
+  ],
+  [
+    "Gonzalez",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -309,15 +345,6 @@
     ]
   ],
   [
-    "I",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        8
-      ]
-    ]
-  ],
-  [
     "Jaja",
     [
       [
@@ -348,10 +375,6 @@
     "Le",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        8
-      ],
-      [
         "0is5MOZLNpo5iAY3M0B9ml",
         1
       ]
@@ -363,15 +386,6 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         3
-      ]
-    ]
-  ],
-  [
-    "Let",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
       ]
     ]
   ],
@@ -434,29 +448,11 @@
     ]
   ],
   [
-    "My",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "NA",
     [
       [
         "0iQmZXv7e8EHcmJmHpZX3o",
         1
-      ]
-    ]
-  ],
-  [
-    "Necesito",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
       ]
     ]
   ],
@@ -542,6 +538,10 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
+      ],
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        2
       ]
     ]
   ],
@@ -564,25 +564,29 @@
     ]
   ],
   [
-    "Puerto",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "Que",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
         3
+      ],
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        14
       ]
     ]
   ],
   [
     "Quieren",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "Quieres",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -613,6 +617,15 @@
     [
       [
         "0is5MOZLNpo5iAY3M0B9ml",
+        1
+      ]
+    ]
+  ],
+  [
+    "Reales",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
         1
       ]
     ]
@@ -663,6 +676,15 @@
     ]
   ],
   [
+    "Santa",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
     "Se",
     [
       [
@@ -690,11 +712,11 @@
     ]
   ],
   [
-    "Somebody",
+    "Somos",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -717,15 +739,6 @@
     ]
   ],
   [
-    "Then",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "They",
     [
       [
@@ -744,6 +757,15 @@
     ]
   ],
   [
+    "Va",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        4
+      ]
+    ]
+  ],
+  [
     "Vagos",
     [
       [
@@ -753,11 +775,11 @@
     ]
   ],
   [
-    "We",
+    "Verde",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -779,6 +801,10 @@
       ],
       [
         "0iXhrFJCj6fDocBueze7Yg",
+        9
+      ],
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
         9
       ]
     ]
@@ -820,6 +846,15 @@
     ]
   ],
   [
+    "adentro",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        2
+      ]
+    ]
+  ],
+  [
     "agachan",
     [
       [
@@ -829,11 +864,11 @@
     ]
   ],
   [
-    "again",
+    "aguante",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -852,15 +887,6 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         2
-      ]
-    ]
-  ],
-  [
-    "amiga",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        8
       ]
     ]
   ],
@@ -945,20 +971,11 @@
     ]
   ],
   [
-    "back",
+    "avi\u00f3n",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "bad",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1017,11 +1034,11 @@
     ]
   ],
   [
-    "boy",
+    "breve",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1031,15 +1048,6 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
-      ]
-    ]
-  ],
-  [
-    "but",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
       ]
     ]
   ],
@@ -1107,6 +1115,15 @@
     ]
   ],
   [
+    "campo",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        2
+      ]
+    ]
+  ],
+  [
     "canala",
     [
       [
@@ -1130,6 +1147,15 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         7
+      ]
+    ]
+  ],
+  [
+    "cant\u00f3n-rap-gangster",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1197,15 +1223,6 @@
     ]
   ],
   [
-    "check",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "chota",
     [
       [
@@ -1220,6 +1237,15 @@
       [
         "0is5MOZLNpo5iAY3M0B9ml",
         3
+      ]
+    ]
+  ],
+  [
+    "cintura",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        2
       ]
     ]
   ],
@@ -1296,7 +1322,7 @@
     ]
   ],
   [
-    "coraz\u00f3n",
+    "controles",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -1305,11 +1331,11 @@
     ]
   ],
   [
-    "corillo",
+    "coraz\u00f3n",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        8
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1332,11 +1358,11 @@
     ]
   ],
   [
-    "could",
+    "creaci\u00f3n",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1354,6 +1380,19 @@
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "cuerpo",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ],
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
         1
       ]
     ]
@@ -1404,15 +1443,6 @@
     ]
   ],
   [
-    "do",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "d\u00e1ndose",
     [
       [
@@ -1423,6 +1453,15 @@
   ],
   [
     "efecto",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "embronques",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -1449,10 +1488,28 @@
     ]
   ],
   [
+    "enderezo",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        1
+      ]
+    ]
+  ],
+  [
     "enfermedad",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "enredao",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
         1
       ]
     ]
@@ -1552,6 +1609,15 @@
     ]
   ],
   [
+    "final",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        1
+      ]
+    ]
+  ],
+  [
     "finanza",
     [
       [
@@ -1570,20 +1636,20 @@
     ]
   ],
   [
-    "forever",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
-      ]
-    ]
-  ],
-  [
     "forjan",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
+      ]
+    ]
+  ],
+  [
+    "form\u00f3",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        4
       ]
     ]
   ],
@@ -1606,15 +1672,6 @@
     ]
   ],
   [
-    "game",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
-      ]
-    ]
-  ],
-  [
     "ganado",
     [
       [
@@ -1629,33 +1686,6 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
-      ]
-    ]
-  ],
-  [
-    "girl",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
-      ]
-    ]
-  ],
-  [
-    "give",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "go",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
       ]
     ]
   ],
@@ -1709,15 +1739,6 @@
     ]
   ],
   [
-    "guess",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "gusta",
     [
       [
@@ -1745,11 +1766,20 @@
     ]
   ],
   [
-    "her",
+    "homie",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "homies",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1790,10 +1820,19 @@
     ]
   ],
   [
-    "in",
+    "imaginaci\u00f3n",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "incendio",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
         4
       ]
     ]
@@ -1835,11 +1874,11 @@
     ]
   ],
   [
-    "it",
+    "jale",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1849,15 +1888,6 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
-      ]
-    ]
-  ],
-  [
-    "know",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
       ]
     ]
   ],
@@ -1880,20 +1910,20 @@
     ]
   ],
   [
-    "left",
+    "lecho",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iZzWrpdwwFrynCW0bmyVe",
+        1
       ]
     ]
   ],
   [
-    "let",
+    "lejos",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1925,11 +1955,11 @@
     ]
   ],
   [
-    "lleg\u00f3",
+    "llegar\u00e1",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        16
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -1953,6 +1983,15 @@
   ],
   [
     "locura",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "madre",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -2020,15 +2059,6 @@
       [
         "0is5MOZLNpo5iAY3M0B9ml",
         1
-      ]
-    ]
-  ],
-  [
-    "marry",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
       ]
     ]
   ],
@@ -2159,11 +2189,11 @@
     ]
   ],
   [
-    "n't",
+    "natural",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -2177,20 +2207,11 @@
     ]
   ],
   [
-    "need",
+    "neto",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "ni\u00f1a",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -2213,6 +2234,15 @@
     ]
   ],
   [
+    "norte",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        2
+      ]
+    ]
+  ],
+  [
     "ocupe",
     [
       [
@@ -2231,15 +2261,6 @@
     ]
   ],
   [
-    "old",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "olores",
     [
       [
@@ -2249,29 +2270,11 @@
     ]
   ],
   [
-    "out",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "pa",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
         8
-      ]
-    ]
-  ],
-  [
-    "pain",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
       ]
     ]
   ],
@@ -2290,6 +2293,15 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
+      ]
+    ]
+  ],
+  [
+    "pecho",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        2
       ]
     ]
   ],
@@ -2370,7 +2382,25 @@
     ]
   ],
   [
+    "pinche",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
     "pipa",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "pirata",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -2383,15 +2413,6 @@
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
-        2
-      ]
-    ]
-  ],
-  [
-    "pi\u00f1a",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
         2
       ]
     ]
@@ -2451,7 +2472,25 @@
     ]
   ],
   [
+    "presumen",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
     "propones",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "provoquen",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -2478,15 +2517,6 @@
     ]
   ],
   [
-    "queda",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        8
-      ]
-    ]
-  ],
-  [
     "quedarnos",
     [
       [
@@ -2496,11 +2526,29 @@
     ]
   ],
   [
+    "quedo",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        1
+      ]
+    ]
+  ],
+  [
     "qued\u00e9",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
         2
+      ]
+    ]
+  ],
+  [
+    "quemando",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        9
       ]
     ]
   ],
@@ -2519,6 +2567,10 @@
       [
         "0is5MOZLNpo5iAY3M0B9ml",
         4
+      ],
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
       ]
     ]
   ],
@@ -2559,7 +2611,25 @@
     ]
   ],
   [
+    "rap",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
     "rapear",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "reales",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -2604,6 +2674,24 @@
     ]
   ],
   [
+    "resucito",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        2
+      ]
+    ]
+  ],
+  [
+    "retornes",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
     "revancha",
     [
       [
@@ -2617,15 +2705,6 @@
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
-        2
-      ]
-    ]
-  ],
-  [
-    "ride",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
         2
       ]
     ]
@@ -2676,24 +2755,6 @@
     ]
   ],
   [
-    "she",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "shine",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "siento",
     [
       [
@@ -2721,15 +2782,6 @@
     ]
   ],
   [
-    "still",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "suficiente",
     [
       [
@@ -2748,10 +2800,10 @@
     ]
   ],
   [
-    "sun",
+    "sur",
     [
       [
-        "0iQmZXv7e8EHcmJmHpZX3o",
+        "0iZzWrpdwwFrynCW0bmyVe",
         2
       ]
     ]
@@ -2784,15 +2836,6 @@
     ]
   ],
   [
-    "talk",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "tarde",
     [
       [
@@ -2815,6 +2858,15 @@
     ]
   ],
   [
+    "teji\u00e9ndose",
+    [
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        1
+      ]
+    ]
+  ],
+  [
     "tenerte",
     [
       [
@@ -2829,42 +2881,6 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
-      ]
-    ]
-  ],
-  [
-    "that",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "the",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        10
-      ]
-    ]
-  ],
-  [
-    "thing",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "this",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
       ]
     ]
   ],
@@ -2905,6 +2921,15 @@
     ]
   ],
   [
+    "tocan",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
     "tocar",
     [
       [
@@ -2915,6 +2940,15 @@
   ],
   [
     "top\u00f3n",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
+    "toquen",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -2937,6 +2971,15 @@
       [
         "0iXhrFJCj6fDocBueze7Yg",
         4
+      ]
+    ]
+  ],
+  [
+    "tranquilo",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        2
       ]
     ]
   ],
@@ -2981,15 +3024,6 @@
     ]
   ],
   [
-    "unless",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "vagos",
     [
       [
@@ -3008,6 +3042,15 @@
     ]
   ],
   [
+    "vali\u00f3",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ]
+    ]
+  ],
+  [
     "vayan",
     [
       [
@@ -3018,6 +3061,19 @@
   ],
   [
     "ve",
+    [
+      [
+        "0iXhrFJCj6fDocBueze7Yg",
+        1
+      ],
+      [
+        "0iZzWrpdwwFrynCW0bmyVe",
+        3
+      ]
+    ]
+  ],
+  [
+    "viaje",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
@@ -3071,47 +3127,11 @@
     ]
   ],
   [
-    "we",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "with",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
-    "world",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        2
-      ]
-    ]
-  ],
-  [
     "x2",
     [
       [
         "0iXhrFJCj6fDocBueze7Yg",
         1
-      ]
-    ]
-  ],
-  [
-    "you",
-    [
-      [
-        "0iQmZXv7e8EHcmJmHpZX3o",
-        4
       ]
     ]
   ],

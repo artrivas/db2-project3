@@ -12,21 +12,12 @@
     "'s",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ],
-      [
         "10UipNaUa43uGsMnBOcCOK",
         3
-      ]
-    ]
-  ],
-  [
-    "10",
-    [
+      ],
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "14TfQoQHxTjxVKfTxb5plI",
+        5
       ]
     ]
   ],
@@ -58,6 +49,15 @@
     ]
   ],
   [
+    "Alle",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "Alles",
     [
       [
@@ -67,28 +67,10 @@
     ]
   ],
   [
-    "Alte",
+    "Anzug",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Anwalt",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Arsch",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -121,19 +103,19 @@
     ]
   ],
   [
-    "Bau",
+    "Banknoten",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "Beamer",
+    "Bauch",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -157,10 +139,28 @@
     ]
   ],
   [
+    "Bestie",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
     "Bin",
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
+        2
+      ]
+    ]
+  ],
+  [
+    "Bis",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         2
       ]
     ]
@@ -176,6 +176,15 @@
   ],
   [
     "Block",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Blutige",
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
@@ -238,15 +247,6 @@
     ]
   ],
   [
-    "Brennpunkt",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "Bubblegum",
     [
       [
@@ -260,15 +260,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Butterflies",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -292,15 +283,6 @@
     ]
   ],
   [
-    "Callshop-Zentrale",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "Capital",
     [
       [
@@ -319,6 +301,15 @@
     ]
   ],
   [
+    "Chelsea",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "Chill",
     [
       [
@@ -328,19 +319,28 @@
     ]
   ],
   [
-    "Cops",
+    "Clique",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "Denn",
+    "Cop",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Dein",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -352,6 +352,24 @@
         "10UipNaUa43uGsMnBOcCOK",
         1
       ],
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Deutschrap",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Dick",
+    [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
         1
@@ -413,19 +431,28 @@
     ]
   ],
   [
-    "Einer",
+    "Du",
     [
       [
-        "10UipNaUa43uGsMnBOcCOK",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
   ],
   [
-    "Endeffekt",
+    "Dunkle",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
+    "Einer",
+    [
+      [
+        "10UipNaUa43uGsMnBOcCOK",
         1
       ]
     ]
@@ -440,6 +467,15 @@
     ]
   ],
   [
+    "Erregung",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
     "Erz\u00e4hl",
     [
       [
@@ -449,19 +485,19 @@
     ]
   ],
   [
-    "Faker",
+    "Es",
     [
       [
-        "10UipNaUa43uGsMnBOcCOK",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
   ],
   [
-    "Falls",
+    "Faker",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "10UipNaUa43uGsMnBOcCOK",
         1
       ]
     ]
@@ -499,15 +535,37 @@
       [
         "10UipNaUa43uGsMnBOcCOK",
         1
+      ],
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
       ]
     ]
   ],
   [
-    "Feuerstein",
+    "Fehlt",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "14TfQoQHxTjxVKfTxb5plI",
         1
+      ]
+    ]
+  ],
+  [
+    "Fick",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
+    "Ficken",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -525,15 +583,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Fotzen",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -561,6 +610,15 @@
     ]
   ],
   [
+    "G-G-Gold",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "G7Also",
     [
       [
@@ -574,15 +632,6 @@
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
-        1
-      ]
-    ]
-  ],
-  [
-    "Gangster",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -609,10 +658,6 @@
     "Gedanken",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ],
-      [
         "10UipNaUa43uGsMnBOcCOK",
         1
       ]
@@ -633,6 +678,19 @@
       [
         "10UipNaUa43uGsMnBOcCOK",
         1
+      ],
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Genick",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
       ]
     ]
   ],
@@ -641,6 +699,15 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
+        1
+      ]
+    ]
+  ],
+  [
+    "Ger\u00fcche",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -655,29 +722,11 @@
     ]
   ],
   [
-    "Gesetzbuch",
+    "Gest\u00f6hn",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Gewissensbisse",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Gib",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -700,6 +749,15 @@
     ]
   ],
   [
+    "Gott",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "Gras",
     [
       [
@@ -709,7 +767,7 @@
     ]
   ],
   [
-    "Guccig\u00fcrtel",
+    "Grau",
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
@@ -718,10 +776,10 @@
     ]
   ],
   [
-    "Hafen",
+    "Guccig\u00fcrtel",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -745,10 +803,10 @@
     ]
   ],
   [
-    "Hehlerei",
+    "Haze",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -758,24 +816,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Hier",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Hol",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -817,15 +857,6 @@
     ]
   ],
   [
-    "H\u00e4nde",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
-      ]
-    ]
-  ],
-  [
     "Ich",
     [
       [
@@ -835,15 +866,28 @@
       [
         "137VK6DhNh2f6qhx1CaQ4g",
         6
+      ],
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        4
       ]
     ]
   ],
   [
-    "Ihr",
+    "Im",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
+      ]
+    ]
+  ],
+  [
+    "Immer",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        2
       ]
     ]
   ],
@@ -857,11 +901,11 @@
     ]
   ],
   [
-    "Jeden",
+    "Ja",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        3
+        "141lghKsBrt4uofVcNBxmD",
+        1
       ]
     ]
   ],
@@ -893,6 +937,33 @@
     ]
   ],
   [
+    "Kapsel",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Karat",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Keine",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "Kette",
     [
       [
@@ -911,10 +982,10 @@
     ]
   ],
   [
-    "Kind",
+    "Kings",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -938,11 +1009,11 @@
     ]
   ],
   [
-    "Knast",
+    "Kofferraum",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
       ]
     ]
   ],
@@ -974,6 +1045,42 @@
     ]
   ],
   [
+    "Kopf",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Koprolalie",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        9
+      ]
+    ]
+  ],
+  [
+    "Koprolalie-Agonoize-Fick",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
+    "Kraft",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
     "Kragen",
     [
       [
@@ -983,7 +1090,34 @@
     ]
   ],
   [
+    "Kraut",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Kreuzberger",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "Kripo",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Kugeln",
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
@@ -1001,10 +1135,28 @@
     ]
   ],
   [
-    "Lappi",
+    "Land",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "14TfQoQHxTjxVKfTxb5plI",
+        4
+      ]
+    ]
+  ],
+  [
+    "Lass",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        2
+      ]
+    ]
+  ],
+  [
+    "Lauf",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1013,25 +1165,25 @@
     "Leben",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        3
-      ]
-    ]
-  ],
-  [
-    "Leute",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
   ],
   [
-    "Liefer",
+    "Leid",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
+    "Lende",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -1046,19 +1198,23 @@
     ]
   ],
   [
-    "Mach",
+    "Luft",
     [
       [
-        "10UipNaUa43uGsMnBOcCOK",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "Macht\u00fcbernahme",
+    "Mach",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "10UipNaUa43uGsMnBOcCOK",
+        1
+      ],
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1076,10 +1232,6 @@
     "Mal",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ],
-      [
         "137VK6DhNh2f6qhx1CaQ4g",
         2
       ]
@@ -1095,19 +1247,19 @@
     ]
   ],
   [
-    "Man",
+    "Massari",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
       ]
     ]
   ],
   [
-    "Marke",
+    "Massen",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1115,10 +1267,6 @@
   [
     "Meine",
     [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ],
       [
         "10UipNaUa43uGsMnBOcCOK",
         1
@@ -1135,37 +1283,10 @@
     ]
   ],
   [
-    "Mit",
+    "Nase",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Mittel",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Motto",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        4
-      ]
-    ]
-  ],
-  [
-    "Mum",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1201,20 +1322,25 @@
     "Ohne",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ],
-      [
         "10UipNaUa43uGsMnBOcCOK",
         1
       ]
     ]
   ],
   [
-    "Outro",
+    "Ordin\u00e4r",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
+    "Ott",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1251,15 +1377,6 @@
     ]
   ],
   [
-    "Panzer",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "Papier",
     [
       [
@@ -1269,28 +1386,19 @@
     ]
   ],
   [
-    "Park",
+    "Para",
     [
       [
-        "10UipNaUa43uGsMnBOcCOK",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "Part",
+    "Park",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
-      ]
-    ]
-  ],
-  [
-    "Pauli",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "10UipNaUa43uGsMnBOcCOK",
         1
       ]
     ]
@@ -1314,33 +1422,6 @@
     ]
   ],
   [
-    "Politiker",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Probe",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Prostitution",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "Punkt",
     [
       [
@@ -1359,16 +1440,16 @@
     ]
   ],
   [
-    "RandaleSie",
+    "Ratten",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "Ratten",
+    "Raub",
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
@@ -1381,15 +1462,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Regeln",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -1408,15 +1480,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Rostock",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -1449,28 +1512,10 @@
     ]
   ],
   [
-    "Sahne",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "Scheine",
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Schei\u00df",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -1503,6 +1548,15 @@
     ]
   ],
   [
+    "Schmuck",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "Schnappe",
     [
       [
@@ -1512,20 +1566,20 @@
     ]
   ],
   [
-    "Schon",
+    "Schrei",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
   [
-    "Schulschw\u00e4nzer",
+    "Sei",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -1548,10 +1602,10 @@
     ]
   ],
   [
-    "Speak",
+    "Skrupel",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1566,10 +1620,37 @@
     ]
   ],
   [
-    "Stra\u00dfeIch",
+    "Staatsfeind-Agonoize-Ich",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "14TfQoQHxTjxVKfTxb5plI",
+        1
+      ]
+    ]
+  ],
+  [
+    "Staub",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Stoff",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Stra\u00dfe",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1584,11 +1665,11 @@
     ]
   ],
   [
-    "Tag",
+    "Strick",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        3
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
       ]
     ]
   ],
@@ -1597,15 +1678,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Taschen",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -1620,10 +1692,10 @@
     ]
   ],
   [
-    "They",
+    "Tier",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -1633,24 +1705,6 @@
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
-        1
-      ]
-    ]
-  ],
-  [
-    "Track",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Tradition",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -1686,38 +1740,16 @@
     "Und",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        3
-      ],
-      [
         "137VK6DhNh2f6qhx1CaQ4g",
         6
       ]
     ]
   ],
   [
-    "Vater",
+    "Unkontrolliert",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Verbots",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "Verhaftung",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -1727,6 +1759,15 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
+        1
+      ]
+    ]
+  ],
+  [
+    "Verstand",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -1772,20 +1813,11 @@
     ]
   ],
   [
-    "Waffenhandel",
+    "Wahn",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
-      ]
-    ]
-  ],
-  [
-    "Wahl",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
       ]
     ]
   ],
@@ -1799,10 +1831,10 @@
     ]
   ],
   [
-    "Waren\u00fcbergabe",
+    "Ware",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -1826,11 +1858,11 @@
     ]
   ],
   [
-    "Weht",
+    "Wenn",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -1840,6 +1872,10 @@
       [
         "137VK6DhNh2f6qhx1CaQ4g",
         1
+      ],
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
       ]
     ]
   ],
@@ -1848,15 +1884,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "Wind",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -1876,6 +1903,15 @@
   ],
   [
     "Wirbel",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Wut",
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
@@ -1911,19 +1947,46 @@
     ]
   ],
   [
-    "Zimmer",
+    "Zeit",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "14TfQoQHxTjxVKfTxb5plI",
+        2
+      ]
+    ]
+  ],
+  [
+    "Ziere",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
   ],
   [
-    "Zuh\u00e4lter",
+    "Zukunft",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "Zwei-vier",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "an-pop-electropop",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -1942,24 +2005,6 @@
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
-        1
-      ]
-    ]
-  ],
-  [
-    "andrer",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "around",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -1992,15 +2037,6 @@
     ]
   ],
   [
-    "brauch",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "bring",
     [
       [
@@ -2013,7 +2049,16 @@
     "bringt",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "bunt",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2028,33 +2073,6 @@
     ]
   ],
   [
-    "but",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "close",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "come",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
-      ]
-    ]
-  ],
-  [
     "denk",
     [
       [
@@ -2064,19 +2082,10 @@
     ]
   ],
   [
-    "digga",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
-      ]
-    ]
-  ],
-  [
     "drauf",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2100,28 +2109,10 @@
     ]
   ],
   [
-    "egal",
+    "erwacht",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "engsten",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "erz\u00e4hln",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -2145,6 +2136,15 @@
     ]
   ],
   [
+    "fast",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "fick",
     [
       [
@@ -2159,6 +2159,15 @@
       [
         "10UipNaUa43uGsMnBOcCOK",
         1
+      ]
+    ]
+  ],
+  [
+    "find",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -2190,6 +2199,24 @@
     ]
   ],
   [
+    "flie\u00dft",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "frag",
+    [
+      [
+        "14TfQoQHxTjxVKfTxb5plI",
+        1
+      ]
+    ]
+  ],
+  [
     "fress",
     [
       [
@@ -2199,19 +2226,10 @@
     ]
   ],
   [
-    "frustriert",
+    "frisch",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "fr\u00fcher",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2248,20 +2266,20 @@
     ]
   ],
   [
-    "gehn",
+    "gefickt",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "geh\u00f6r",
+    "geil",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -2275,19 +2293,19 @@
     ]
   ],
   [
-    "gemerkt",
+    "gepusht",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "geparkt",
+    "geraumer",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "14TfQoQHxTjxVKfTxb5plI",
         1
       ]
     ]
@@ -2298,15 +2316,6 @@
       [
         "10UipNaUa43uGsMnBOcCOK",
         2
-      ]
-    ]
-  ],
-  [
-    "gest\u00f6rtes",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
       ]
     ]
   ],
@@ -2338,24 +2347,6 @@
     ]
   ],
   [
-    "gratis",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "gucke",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "hab",
     [
       [
@@ -2365,19 +2356,19 @@
     ]
   ],
   [
-    "hantiert",
+    "haram",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
   ],
   [
-    "hol'n",
+    "hoff",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2392,19 +2383,10 @@
     ]
   ],
   [
-    "h\u00e4rter",
+    "h\u00e4ngt",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "illegal",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2446,10 +2428,10 @@
     ]
   ],
   [
-    "klappt",
+    "kranker",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -2473,6 +2455,24 @@
     ]
   ],
   [
+    "kreischst",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
+    "kriegt",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "k\u00e4mpft.",
     [
       [
@@ -2482,28 +2482,19 @@
     ]
   ],
   [
-    "k\u00f6nnen",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "landen",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "lasst",
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
+        1
+      ]
+    ]
+  ],
+  [
+    "laut",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2527,6 +2518,15 @@
     ]
   ],
   [
+    "liebe",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
     "liegen",
     [
       [
@@ -2540,15 +2540,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "lustig",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -2594,24 +2585,6 @@
     ]
   ],
   [
-    "mittendrin",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "m\u00fcssen",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
     "nacht",
     [
       [
@@ -2621,10 +2594,10 @@
     ]
   ],
   [
-    "never",
+    "nachts",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2639,10 +2612,19 @@
     ]
   ],
   [
-    "paranoide",
+    "obsz\u00f6n",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
+        5
+      ]
+    ]
+  ],
+  [
+    "offenbare",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -2652,6 +2634,33 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
+        1
+      ]
+    ]
+  ],
+  [
+    "pervers",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        5
+      ]
+    ]
+  ],
+  [
+    "planen",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "plus",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2671,6 +2680,10 @@
       [
         "0ZQRaf4WBQhWREQjlE4WwC",
         1
+      ],
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
       ]
     ]
   ],
@@ -2687,22 +2700,22 @@
     "raus",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "rein",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "141lghKsBrt4uofVcNBxmD",
+        2
       ]
     ]
   ],
   [
     "renn'n",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "riecht",
     [
       [
         "137VK6DhNh2f6qhx1CaQ4g",
@@ -2732,38 +2745,7 @@
     "schei\u00df",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
-      ],
-      [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "schie\u00dfen",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "schlau",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "schmutzig",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
@@ -2778,20 +2760,20 @@
     ]
   ],
   [
-    "scratch",
+    "schrei",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
+        "141lghKsBrt4uofVcNBxmD",
+        4
       ]
     ]
   ],
   [
-    "seh",
+    "sch\u00f6n",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "141lghKsBrt4uofVcNBxmD",
+        6
       ]
     ]
   ],
@@ -2805,19 +2787,10 @@
     ]
   ],
   [
-    "sehn",
+    "sitzt",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        3
-      ]
-    ]
-  ],
-  [
-    "sieht",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2828,6 +2801,15 @@
       [
         "137VK6DhNh2f6qhx1CaQ4g",
         1
+      ]
+    ]
+  ],
+  [
+    "sprichst",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -2850,6 +2832,24 @@
     ]
   ],
   [
+    "st\u00f6hnst",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
+        1
+      ]
+    ]
+  ],
+  [
+    "such",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
     "suchen",
     [
       [
@@ -2859,19 +2859,10 @@
     ]
   ],
   [
-    "the",
+    "taub",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
-      ]
-    ]
-  ],
-  [
-    "they",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2886,10 +2877,10 @@
     ]
   ],
   [
-    "to",
+    "tip-top",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -2904,10 +2895,10 @@
     ]
   ],
   [
-    "trotz",
+    "t\u00f6rnt",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -2918,6 +2909,15 @@
       [
         "137VK6DhNh2f6qhx1CaQ4g",
         7
+      ]
+    ]
+  ],
+  [
+    "um-umsatzfixiert-rap-gangster",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
       ]
     ]
   ],
@@ -2985,10 +2985,19 @@
     ]
   ],
   [
-    "verhaften",
+    "vergibt",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
+        1
+      ]
+    ]
+  ],
+  [
+    "verkauft",
+    [
+      [
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -3003,10 +3012,10 @@
     ]
   ],
   [
-    "vers",
+    "verpacken",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "137VK6DhNh2f6qhx1CaQ4g",
         1
       ]
     ]
@@ -3016,6 +3025,15 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
+        1
+      ]
+    ]
+  ],
+  [
+    "verwandelt",
+    [
+      [
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
@@ -3039,38 +3057,38 @@
     ]
   ],
   [
-    "wisst",
+    "voller",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
   ],
   [
-    "woll'n",
+    "weicht",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
   ],
   [
-    "wrong",
+    "wei\u00df",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
+        "141lghKsBrt4uofVcNBxmD",
         1
       ]
     ]
   ],
   [
-    "w\u00e4rst",
+    "werd",
     [
       [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        1
+        "141lghKsBrt4uofVcNBxmD",
+        3
       ]
     ]
   ],
@@ -3080,15 +3098,6 @@
       [
         "0ZQRaf4WBQhWREQjlE4WwC",
         1
-      ]
-    ]
-  ],
-  [
-    "zap",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
-        2
       ]
     ]
   ],
@@ -3106,15 +3115,6 @@
     [
       [
         "10UipNaUa43uGsMnBOcCOK",
-        1
-      ]
-    ]
-  ],
-  [
-    "\u00dcbersetzung",
-    [
-      [
-        "0ZQRaf4WBQhWREQjlE4WwC",
         1
       ]
     ]
