@@ -1,21 +1,18 @@
 from fastapi.responses import JSONResponse
-from fastapi import UploadFile, File, Form
+from fastapi import Form
 from typing import Optional
-from handlers_dict import handlers
+from handlers.handlers_dict import handlers
 
 PATH_TO_MUSIC = 'music/songs'
 
-async def get_knn_highd(file: UploadFile = File(...), k: str = Form(...)) -> Optional[dict]:
+async def get_knn_highd(track_id: str = Form(...), k: str = Form(...)) -> Optional[dict]:
+    highd = handlers['highd']
     try:
-        path = 'music/uploads/' + file.filename
-        with open(path, 'wb') as f:
-            f.write(file.file.read())
-        highd = handlers['highd']
-        print(path)
-        neighbors = highd.knn_query(file.filename, int(k))
+        neighbors = highd.knn_query(track_id, int(k))
         return {
             'content': neighbors,
             'status_code': 200
         }
     except Exception as e:
-        return JSONResponse(content=str(e), status_code=500)
+        return JSONResponse(status_code=404, content="Song not found")
+    

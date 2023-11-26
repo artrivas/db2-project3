@@ -1,21 +1,18 @@
 from fastapi.responses import JSONResponse
-from fastapi import UploadFile, File, Form
+from fastapi import Form
 from typing import Optional
-from handlers_dict import handlers
+from handlers.handlers_dict import handlers
 
 PATH_TO_MUSIC = 'music/songs' # update with global path
 
-async def get_knn_rtree(file: UploadFile = File(...), k: str = Form(...)) -> Optional[dict]:
+async def get_knn_rtree(track_id: str = Form(...), k: str = Form(...)) -> Optional[dict]:
+    rtree = handlers['rtree']
     try:
-        path = 'music/uploads/' + file.filename
-        with open(path, 'wb') as f:
-            f.write(file.file.read())
-        rtree = handlers['rtree']
-        neighbors = rtree.knn_query(file.filename, int(k))
-        print(path)
+        neighbors = rtree.knn_query(track_id, int(k))
         return {
             'content': neighbors,
             'status_code': 200
         }
     except Exception as e:
-        return JSONResponse(content=str(e), status_code=500)
+        return JSONResponse(status_code=404, content="Song not found")
+    

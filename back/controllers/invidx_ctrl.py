@@ -1,9 +1,7 @@
-from fastapi.responses import JSONResponse
-from typing import Optional
-from handlers_dict import handlers
+from handlers.handlers_dict import handlers
 from fastapi import Form
 
-async def get_knn_invidx(query: str = Form(...), k: str = Form(...), language: str = Form(...)) -> Optional[dict]:
+async def get_knn_invidx(query: str = Form(...), k: str = Form(...), language: str = Form(...)) -> dict:
     try:
         query: str = query
         k = int(k) if k != '' else 5

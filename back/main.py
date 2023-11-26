@@ -9,7 +9,7 @@ from handlers.SequentialHandler import SequentialHandler
 from handlers.RTreeHandler import RTreeHandler
 from handlers.HighdHandler import HighdHandler
 from handlers.InvIdxHandler import InvIdxHandler
-from handlers_dict import handlers
+from handlers.handlers_dict import handlers
 
 app = FastAPI()
 app.add_middleware(

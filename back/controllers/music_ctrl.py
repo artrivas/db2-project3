@@ -1,13 +1,18 @@
 from fastapi import HTTPException
 from fastapi.responses import StreamingResponse
-from urllib.parse import quote, unquote
+from urllib.parse import quote # , unquote
+import pandas as pd 
+# import unicodedata
 import os
-import unicodedata
 
 PATH_TO_MUSIC = 'music/songs'  # actualiza con la ruta global
+df = pd.read_csv('music/music_map.csv')
 
-async def get_mp3_by_name(song_name: str): # -> Optional[StreamingResponse]:
+async def get_mp3_by_id(id: str):
     try:
+        song_name = df.loc[['music_id'] == id, 'music_name'].iloc[0]
+
+        """
         # Decodificar el nombre del archivo de la URL
         song_name_decoded = unquote(song_name)
 
@@ -24,12 +29,13 @@ async def get_mp3_by_name(song_name: str): # -> Optional[StreamingResponse]:
 
         if not song_file:
             raise HTTPException(status_code=404, detail="Song not found")
+        """
 
         # Construir la ruta completa del archivo
-        song_path = os.path.join(PATH_TO_MUSIC, song_file)
+        song_path = os.path.join(PATH_TO_MUSIC, song_name)
 
         # Retornar el archivo MP3 como una respuesta de transmisión
-        return StreamingResponse(open(song_path, "rb"), media_type="audio/mpeg", headers={"Content-Disposition": f'attachment; filename="{quote(song_file)}"'})
+        return StreamingResponse(open(song_path, "rb"), media_type="audio/mpeg", headers={"Content-Disposition": f'attachment; filename="{quote(song_name)}"'})
     
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail="Song not found")
